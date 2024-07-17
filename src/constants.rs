@@ -1,0 +1,1 @@
+pub(crate) const OUTPUT_WIDTH: usize = 75;
